@@ -1,0 +1,17 @@
+import Login from '../login';
+import Welcome from '../welcome';
+import Sign from '../sign';
+import Forget from '../forget';
+import Password from '../password';
+import Policy from '../policy';
+import Header from '../header';
+import Notifications from '../notifications';
+import Rewards from '../rewards';
+import Referral from '../referral';
+import Pages from '../pages';
+import ProfileUpdate from '../ProfileUpdate';
+import AddBankAccount from '../AddBankAccount';
+import Profile from '../profile';
+import  Contact from '../contact';
+import Home from '../home';
+export {Login,Welcome,Sign,Forget,Password,Pages,Policy,Profile,Notifications,Referral,ProfileUpdate,AddBankAccount,Contact,Home,Rewards,Header};
